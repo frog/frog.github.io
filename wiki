@@ -1,0 +1,24 @@
+## Project Template
+https://proto.frogdesign.com/Home
+- How to Host A Website
+- How to Make a Portable Microservice
+- How to Connect a Website to a Microservice
+- Linux For Installations
+- Openframeworks For Installations
+- Microservice Management for Installations 
+
+## Prototype Starting Point
+https://github.com/frog?utf8=%E2%9C%93&q=rad
+- nodejs
+- nodejs-rpi
+- neo4j
+- python
+- mongodb
+- nginx 
+- container
+
+## Framer JS coding examples
+- https://github.com/frog/FramerJS-Examples
+
+## AI Examples
+- https://github.com/frog/frog_ai
